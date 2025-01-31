@@ -1,6 +1,26 @@
-<h2 align="left">Hi 👋! My name is Yasir Subhani and I'm a passionate frontend developer from India.</h2>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yasirsub.yasirsub" />
 
-###
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yasir+Subhani!;" />
+</h1>
+
+<h3 align="center">A passionate frontend developer from India </h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **Trade Shield**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
+
+💬 Ask me about **Flutter, Dart, Full Stack Development, or anything here**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
+<br/>
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yasirsub&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
