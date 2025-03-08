@@ -88,6 +88,52 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
+<h2 align="center">🤖 AI & LLM Expertise</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h3 align="center">AI Technologies</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+          <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+          <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+          <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
+          <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+          <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+        </div>
+      </td>
+      <td valign="top" width="50%">
+        <h3 align="center">LLM & AI Tools</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+          <img src="https://img.shields.io/badge/Claude-5A67D8?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+          <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge" alt="Hugging Face" />
+          <img src="https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge" alt="LangChain" />
+          <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+          <img src="https://img.shields.io/badge/Stable_Diffusion-FF9E0F?style=for-the-badge" alt="Stable Diffusion" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h3>🧠 AI Project Experience</h3>
+  <ul align="left" style="display: inline-block; text-align: left;">
+    <li>🔍 Implemented semantic search with embedding models</li>
+    <li>🤖 Developed custom chatbots with RAG architecture</li>
+    <li>📊 Created intelligent data visualization systems</li>
+    <li>🔄 Built AI-powered workflow automation solutions</li>
+    <li>📱 Integrated LLMs into mobile applications</li>
+  </ul>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
