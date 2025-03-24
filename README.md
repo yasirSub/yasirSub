@@ -187,8 +187,3 @@
   <h2>📈 Contribution Graph</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasirsub&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
-
-<!-- FOOTER SECTION -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=fadeIn" />
-</div>4
