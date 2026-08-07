@@ -64,7 +64,7 @@
 
       </td>
       <td valign="top" width="45%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirsub&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_color=FF00FF" alt="Top Languages" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yasirSub&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_color=FF00FF" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -78,17 +78,18 @@
 
 <!-- ===================== SKILLS ===================== -->
 <div align="center">
-  <h2>⚡ Skill Pulse</h2>
+  <h2>⚡ Core Strengths</h2>
+  <p>Where I deliver the most value on product teams</p>
+  <img src="https://img.shields.io/badge/Laravel-85%25-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=0D1117" alt="Laravel 85%" />
+  <img src="https://img.shields.io/badge/Python-80%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" alt="Python 80%" />
+  <img src="https://img.shields.io/badge/Frontend-85%25-00FFFF?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117" alt="Frontend 85%" />
+  <br/>
+  <img src="https://img.shields.io/badge/UX%20%2F%20UI-80%25-FF00FF?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117" alt="UX UI 80%" />
+  <img src="https://img.shields.io/badge/SaaS%20Build-75%25-8A2BE2?style=for-the-badge&logo=stripe&logoColor=white&labelColor=0D1117" alt="SaaS 75%" />
+  <img src="https://img.shields.io/badge/Flutter-70%25-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0D1117" alt="Flutter 70%" />
 </div>
 
-```text
-Laravel      ████████████████████░░░░  85%
-Python       ██████████████████░░░░░░  80%
-Frontend     ████████████████████░░░░  85%
-UX / UI      ██████████████████░░░░░░  80%
-SaaS Build   █████████████████░░░░░░░  75%
-Flutter      ████████████████░░░░░░░░  70%
-```
+<br/>
 
 <!-- ===================== TECH ===================== -->
 <div align="center">
@@ -203,19 +204,21 @@ Flutter      ████████████████░░░░░░�
 </div>
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=yasirsub&theme=radical&hide_border=false&include_all_commits=false&count_private=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_color=FF00FF&ring_color=8A2BE2" alt="GitHub stats" />
-  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirsub&theme=radical&hide_border=false&background=0D1117&stroke=FF00FF&ring=00FFFF&fire=8A2BE2&currStreakNum=FFFFFF&sideNums=00FFFF&currStreakLabel=FF00FF&sideLabels=8A2BE2&dates=FFFFFF" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=yasirSub&show_icons=true&theme=radical&hide_border=true&include_all_commits=false&count_private=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=FF00FF&ring_color=8A2BE2" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=yasirSub&theme=radical&hide_border=true&background=0D1117&stroke=FF00FF&ring=00FFFF&fire=8A2BE2&currStreakNum=FFFFFF&sideNums=00FFFF&currStreakLabel=FF00FF&sideLabels=8A2BE2&dates=FFFFFF" alt="GitHub streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yasirsub&theme=radical&no-frame=true&no-bg=false&margin-w=8&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasirSub&theme=radical" height="180" alt="Profile stats card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasirSub&theme=radical" height="180" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasirSub&theme=radical" height="180" alt="Most commit language" />
 </div>
 
 <div align="center">
   <h2>📈 Activity Graph</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasirsub&theme=tokyo-night&hide_border=false&bg_color=0D1117&color=00FFFF&line=FF00FF&point=8A2BE2&area=true&area_color=8A2BE2" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasirSub&theme=tokyo-night&hide_border=false&bg_color=0D1117&color=00FFFF&line=FF00FF&point=8A2BE2&area=true&area_color=8A2BE2" alt="Activity graph" />
 </div>
 
 <!-- ===================== SNAKE ===================== -->
