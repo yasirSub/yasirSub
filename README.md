@@ -1,11 +1,11 @@
 <!-- CYBERPUNK HEADER SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF00FF,100:00FFFF&height=250&section=header&text=YASIR%20SUBHANI&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=00FFFF&stroke=FF00FF&strokeWidth=2&desc=FULL%20STACK%20%26%20SAAS%20DEVELOPER&descAlignY=65&descSize=22" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF00FF,100:00FFFF&height=250&section=header&text=YASIR%20SUBHANI&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=00FFFF&stroke=FF00FF&strokeWidth=2&desc=FULL%20STACK%20+%20SAAS%20DEVELOPER&descAlignY=65&descSize=22" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&pause=800&color=00FFFF&center=true&vCenter=true&width=700&height=70&lines=Full+Stack+%26+SaaS+Developer;Laravel+%7C+Python+%7C+Frontend;Backend+%2B+UX+that+converts;Open+to+collaborate+%26+build" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&pause=800&color=00FFFF&center=true&vCenter=true&width=700&height=70&lines=Full+Stack+%2B+SaaS+Developer;Laravel+%7C+Python+%7C+Frontend;Backend+%2B+UX+that+converts;Open+to+collaborate+and+build" alt="Typing SVG" />
   </a>
 </div>
 
@@ -224,17 +224,19 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasirsub&theme=tokyo-night&hide_border=false&bg_color=0D1117&color=00FFFF&line=FF00FF&point=8A2BE2&area=true&area_color=8A2BE2" alt="Contribution Graph" />
 </div>
 
-<!-- SNAKE AT BOTTOM (shows above pinned repos on profile) -->
+<!-- SNAKE GAME AT BOTTOM (above pinned repos on your profile) -->
 <div align="center">
-  <h2>🐍 CONTRIBUTION SNAKE</h2>
+  <h2>🐍 GitHub Contribution Snake</h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasirSub/yasirSub/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yasirSub/yasirSub/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/yasirSub/yasirSub/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/yasirSub/yasirSub/output/github-contribution-grid-snake.svg" />
   </picture>
+  <br/>
+  <img alt="github-snake-gif" src="https://raw.githubusercontent.com/yasirSub/yasirSub/output/github-contribution-grid-snake.gif" />
 </div>
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:FF00FF,100:8A2BE2&height=120&section=footer&text=LET'S%20BUILD%20TOGETHER&fontSize=28&fontAlignY=80&animation=fadeIn&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:FF00FF,100:8A2BE2&height=120&section=footer&text=LETS%20BUILD%20TOGETHER&fontSize=28&fontAlignY=80&animation=fadeIn&fontColor=FFFFFF" />
 </div>
